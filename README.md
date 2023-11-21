@@ -1,6 +1,9 @@
 # ₿ 프로젝트 소개
 LSTM 신경망을 이용한 비트코인 시세 예측
 
+# 🗃️ DB 활용
+![image](https://github.com/Brazen-Story/big-data-final-prj/assets/88796297/3b0b0c82-2309-4655-b1ff-50d2d46af4c3)
+
 # 📈 훈련 및 검증 손실
 ![image](https://github.com/Brazen-Story/big-data-final-prj/assets/88796297/3ac127c8-e080-47a7-ac20-82dbf423497d)
 
