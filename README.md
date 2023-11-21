@@ -1,6 +1,9 @@
 # ₿ 프로젝트 소개
 LSTM 신경망을 이용한 비트코인 시세 예측
 
+# 📈 훈련 및 검증 손실
+![image](https://github.com/Brazen-Story/big-data-final-prj/assets/88796297/3ac127c8-e080-47a7-ac20-82dbf423497d)
+
 # 💹 실제가격과 예측가격
 ![image](https://github.com/Brazen-Story/big-data-final-prj/assets/88796297/c14a14e4-311d-4eb1-9f1b-d5f7f3f0280e)
 
